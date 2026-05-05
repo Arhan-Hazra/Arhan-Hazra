@@ -22,13 +22,13 @@
 
 ---
 
-### ⚡ About Me 
+### ⚡ About Me 😉
 
 Hi, I’m Arhan. I rescue abandoned electronics, force-feed them Linux, attach questionable amounts of wiring… and somehow they wake up as robots.
 
 Officially, I’m a B.Tech CSE (AI) student.
 Unofficially? I’m the guy who looks at an old laptop motherboard, a dead PSU, and a GPU and thinks:
- “Yeah… this could probably become a pet robot.”
+ “Yeah… this could probably become a pet robot.” 😅
 
 Most of my learning happens somewhere between:
 * 🔧 burnt fingertips from soldering “just one last wire”
@@ -44,7 +44,7 @@ Side effects of knowing me may include:
 * 📈 unhealthy excitement over FPS gains
 * 🛠 saying “don’t throw that away, I need it for a project” way too often
 
-Why buy smart machines… when you can build one from e-waste, caffeine, and pure stubbornness?
+Why buy smart machines… when you can build one from e-waste, caffeine, and pure stubbornness? 🤭
 
 ---
 
