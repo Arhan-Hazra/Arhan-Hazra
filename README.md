@@ -28,7 +28,7 @@ Hi, I’m Arhan. I rescue abandoned electronics, force-feed them Linux, attach q
 
 Officially, I’m a B.Tech CSE (AI) student.
 Unofficially? I’m the guy who looks at an old laptop motherboard, a dead PSU, and a GPU and thinks:
-“Yeah… this could probably become a pet robot.”
+* “Yeah… this could probably become a pet robot.”
 
 Most of my learning happens somewhere between:
 * 🔧 burnt fingertips from soldering “just one last wire”
@@ -39,10 +39,10 @@ Most of my learning happens somewhere between:
 My playground includes Arduino, ESPs, computer vision, edge AI, Linux, TensorRT, and hardware that society confidently labeled “useless.”
 
 Side effects of knowing me may include:
-*⚡ spontaneous robotics TED-talks
-*🎹 random piano breaks between compile errors
-*📈 unhealthy excitement over FPS gains
-*🛠 saying “don’t throw that away, I need it for a project” way too often
+* ⚡ spontaneous robotics TED-talks
+* 🎹 random piano breaks between compile errors
+* 📈 unhealthy excitement over FPS gains
+* 🛠 saying “don’t throw that away, I need it for a project” way too often
 
 Why buy smart machines… when you can build one from e-waste, caffeine, and pure stubbornness?
 
