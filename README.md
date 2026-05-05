@@ -31,18 +31,18 @@ Unofficially? I’m the guy who looks at an old laptop motherboard, a dead PSU, 
 “Yeah… this could probably become a pet robot.”
 
 Most of my learning happens somewhere between:
-🔧 burnt fingertips from soldering “just one last wire”
-💻 terminal windows that absolutely should work
-🤖 robots that gain personality before documentation
-☕ debugging sessions that start at 8 PM and somehow become sunrise
+* 🔧 burnt fingertips from soldering “just one last wire”
+* 💻 terminal windows that absolutely should work
+* 🤖 robots that gain personality before documentation
+* ☕ debugging sessions that start at 8 PM and somehow become sunrise
 
 My playground includes Arduino, ESPs, computer vision, edge AI, Linux, TensorRT, and hardware that society confidently labeled “useless.”
 
 Side effects of knowing me may include:
-⚡ spontaneous robotics TED-talks
-🎹 random piano breaks between compile errors
-📈 unhealthy excitement over FPS gains
-🛠 saying “don’t throw that away, I need it for a project” way too often
+*⚡ spontaneous robotics TED-talks
+*🎹 random piano breaks between compile errors
+*📈 unhealthy excitement over FPS gains
+*🛠 saying “don’t throw that away, I need it for a project” way too often
 
 Why buy smart machines… when you can build one from e-waste, caffeine, and pure stubbornness?
 
