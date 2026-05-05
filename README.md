@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arhan Kumar Hazra</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arhan Kumar Hazra
+</h1>
 <h3 align="center">Engineer by degree, builder by obsession.</h3>
 
 <p align="center">
@@ -13,33 +15,33 @@
   <a href="mailto:hazraarhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://drive.google.com/file/d/1wqSdDm1-hkx8P8xhLnFiOzzyXd-OM-jz/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-FF4B4B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---
 
-### 👨‍🔧 The Builder Profile
+### ⚡ About Me (The Unfiltered Version)
 
-* 🎓 **Academics:** Pursuing B.Tech in CSE (AI) at KIIT University.
-* 🧠 **Core Stack:** I think in **Java**, but I build with **C++**, **Python**, and embedded C.
-* 🛠️ **Hardware Hacker:** Squeezing maximum performance out of salvaged parts—from discrete 2N2222 transistors and UPS boards to upcycling 11-year-old laptops.
-* 🐧 **Systems & AI:** Linux Mint, NVIDIA CUDA + cuDNN, OpenCV, TensorRT, and optimizing YOLOv5 for edge deployment.
+Welcome to my workshop! I’m a B.Tech CSE (AI) student who spends way too much time convincing old laptop motherboards to become the brains of my robotics projects. 🤖✨
 
----
+* 🔌 **Current Status:** Probably fighting with ESP8266 boot-state pins or trying not to burn my fingers on a soldering iron (again 🩹).
+* 💻 **What I Do:** I rescue discarded electronics, harvest their parts, and force them to run local AI and computer vision models. Why buy expensive smart home gear when you can build it yourself, right? 
+* 🧠 **My Logic:** I grew up thinking in **Java**, but I build with **C++** and **Python** because that's what makes the robots move.
+* 🎵 **AFK:** When I'm not writing code or optimizing TensorRT, you can find me playing the piano, watching anime (*A Silent Voice* is top-tier), or plotting my next ridiculous hardware hack.
 
-### 🚀 The "Real Engineering" Portfolio
-
-* **[No-App Smart Home System](https://github.com/Arhan-Hazra/No-App-Smart-Home-ESP8266)**
-  * *IoT + Embedded Systems:* An ultra-low-cost, highly stable local smart home controller using an ESP8266. Features active-low hardware logic to bypass boot-state traps and real-time background syncing with physical wall switches.
-* **E-Waste AI Pet Robot (WIP)**
-  * *Edge AI + Robotics:* An autonomous companion powered by an underclocked GTX 1050 Ti via a mini-PCIe riser on an upcycled HP Pavilion G6 motherboard. Target: 30+ FPS local TensorRT inference.
-* **Smartphone-to-SBC Conversion (Nokia 6.1 Plus)**
-  * *Sustainable Computing:* Repurposed an old smartphone into a remotely controllable, Linux-based software-defined alternative to a Raspberry Pi. *(Research paper submitted!)*
+*I believe the best way to learn is to take things apart, figure out why they broke, and build something cooler from the ashes. Let's build something awesome!*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Nerd Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arhan-Hazra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212" alt="Arhan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhan-Hazra&layout=compact&theme=tokyonight&hide_border=true&bg_color=121212" alt="Top Langs" />
+  <a href="https://github.com/Arhan-Hazra">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arhan-Hazra&show_icons=true&theme=tokyonight&hide_border=true" alt="Arhan's GitHub stats" />
+  </a>
+  <a href="https://github.com/Arhan-Hazra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhan-Hazra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
