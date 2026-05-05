@@ -22,26 +22,29 @@
 
 ---
 
-### ⚡ About Me (The Unfiltered Version)
+### ⚡ About Me 
 
-Welcome to my workshop! I’m a B.Tech CSE (AI) student who spends way too much time convincing old laptop motherboards to become the brains of my robotics projects. 🤖✨
+Hi, I’m Arhan. I rescue abandoned electronics, force-feed them Linux, attach questionable amounts of wiring… and somehow they wake up as robots.
 
-* 🔌 **Current Status:** Probably fighting with ESP8266 boot-state pins or trying not to burn my fingers on a soldering iron (again 🩹).
-* 💻 **What I Do:** I rescue discarded electronics, harvest their parts, and force them to run local AI and computer vision models. Why buy expensive smart home gear when you can build it yourself, right? 
-* 🧠 **My Logic:** I grew up thinking in **Java**, but I build with **C++** and **Python** because that's what makes the robots move.
-* 🎵 **AFK:** When I'm not writing code or optimizing TensorRT, you can find me playing the piano, watching anime (*A Silent Voice* is top-tier), or plotting my next ridiculous hardware hack.
+Officially, I’m a B.Tech CSE (AI) student.
+Unofficially? I’m the guy who looks at an old laptop motherboard, a dead PSU, and a GPU and thinks:
+“Yeah… this could probably become a pet robot.”
 
-*I believe the best way to learn is to take things apart, figure out why they broke, and build something cooler from the ashes. Let's build something awesome!*
+Most of my learning happens somewhere between:
+🔧 burnt fingertips from soldering “just one last wire”
+💻 terminal windows that absolutely should work
+🤖 robots that gain personality before documentation
+☕ debugging sessions that start at 8 PM and somehow become sunrise
+
+My playground includes Arduino, ESPs, computer vision, edge AI, Linux, TensorRT, and hardware that society confidently labeled “useless.”
+
+Side effects of knowing me may include:
+⚡ spontaneous robotics TED-talks
+🎹 random piano breaks between compile errors
+📈 unhealthy excitement over FPS gains
+🛠 saying “don’t throw that away, I need it for a project” way too often
+
+Why buy smart machines… when you can build one from e-waste, caffeine, and pure stubbornness?
 
 ---
 
-### 📊 Nerd Stats
-
-<p align="center">
-  <a href="https://github.com/Arhan-Hazra">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arhan-Hazra&show_icons=true&theme=tokyonight&hide_border=true" alt="Arhan's GitHub stats" />
-  </a>
-  <a href="https://github.com/Arhan-Hazra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhan-Hazra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
-</p>
